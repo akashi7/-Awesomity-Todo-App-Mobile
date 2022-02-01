@@ -15,7 +15,7 @@ This project was build with android emulator with android version 10. Therefore,
 For running the application in a fast and easy way :
 
 1. You must have android phone with version >=10 , otherwise you will have a messed up application interface
-2. Download the APK file at this [link here](https://drive.google.com/drive/u/3/folders/17wWZ1k8WQBtgq06X2-XNrl2RGu_-Zyta)
+2. Download the APK file at this [link here](https://drive.google.com/file/d/15tZq9JnXeJlG5FFwhU42dpQv-L5LxqWp/view?usp=sharing)
 
 3. Use Xender or USB or other ways you want to move the downloaded APK file from the machine to your android phone.
 4. Install APK file to your android phone.
