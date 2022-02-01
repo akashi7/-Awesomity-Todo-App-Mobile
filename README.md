@@ -16,12 +16,13 @@ For running the application in a fast and easy way :
 
 1. You must have android phone with version >=10 , otherwise you will have a messed up application interface
 2. Download the APK file at this [link here](https://drive.google.com/file/d/15tZq9JnXeJlG5FFwhU42dpQv-L5LxqWp/view?usp=sharing)
-
-3. Use Xender or USB or other ways you want to move the downloaded APK file from the machine to your android phone.
-4. Install APK file to your android phone.
-5. In installing you will encounter a message that says `BLOCKED BY PLAY PROTECT`, click `INSTALL ANYWAY`
-6. After the app is succesfully installed , Open it
-7. You will encounter another message that says `SEND APP FOR SCANNING` , click `DON'T SEND`
+3. On download options you may encounter a message saying `Google drive has detected issues with your download` click `Download anyway`
+4. If you are using a mobile phone to download the APK file skip step 5
+5. Use Xender or USB or other ways you want to move the downloaded APK file from the machine to your android phone.
+6. Install APK file to your android phone.
+7. In installing you will encounter a message that says `BLOCKED BY PLAY PROTECT`, click `INSTALL ANYWAY`
+8. After the app is succesfully installed , Open it
+9. You will encounter another message that says `SEND APP FOR SCANNING` , click `DON'T SEND`
 
 That's it for the easy and fast steps , sit down and enjoy the application
 
