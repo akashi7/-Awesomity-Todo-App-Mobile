@@ -1,4 +1,4 @@
-package com.challengeapp;
+package com.todoapp.akashi;
 
 import com.facebook.react.ReactActivity;
 

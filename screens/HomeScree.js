@@ -241,7 +241,7 @@ const styles = StyleSheet.create({
   scrollViewDiv: {
     width: 350,
     backgroundColor: "white",
-    marginLeft: 20,
+    marginLeft: 10,
     marginTop: -170,
     padding: 8
   },

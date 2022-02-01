@@ -14,4 +14,4 @@ export const UNDONE_SUCCESS = 'UNDONE_SUCCESS';
 export const RESET_TWO = 'RESET_TWO';
 export const RESET_THREE = 'RESET_THREE';
 export const UPDATE_ITEM = 'UPDATE_ITEM';
-export const RESET_FOUR = 'ESET_FOUR';
+export const RESET_FOUR = 'RESET_FOUR';
